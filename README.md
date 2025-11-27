@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranojgonjari&label=Profile%20views&color=0e75b6&style=flat" alt="pranojgonjari" /> </p>
 
-- 👨‍💻 Completed Major Project in Multiple Disease Prediction Web App using machine learning in python [HEALTHMITRA](http://healthmitra.live/)
+- 👨‍💻 Completed and Developed an e-commerce website using Angular to provide a seamless online shopping experience for users.
 
 - 📫 How to reach me **gonjaripranoj@gmail.com**
 
